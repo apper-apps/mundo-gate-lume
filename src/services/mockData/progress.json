@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "childId": "1",
+    "date": "2024-01-15",
+    "vocabularyLearned": ["feliz", "triste", "enojado"],
+    "lessonsCompleted": 1,
+    "emotionCheckIns": [
+      {
+        "time": "morning",
+        "emotion": "feliz",
+        "reason": "Sunny day"
+      }
+    ],
+    "parentNotes": "Sofia showed great enthusiasm today"
+  },
+  {
+    "Id": 2,
+    "childId": "1",
+    "date": "2024-01-14",
+    "vocabularyLearned": ["asustado", "valiente"],
+    "lessonsCompleted": 1,
+    "emotionCheckIns": [
+      {
+        "time": "morning",
+        "emotion": "emocionado",
+        "reason": "New lesson"
+      }
+    ],
+    "parentNotes": "Good progress with pronunciation"
+  }
+]

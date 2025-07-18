@@ -1,0 +1,146 @@
+[
+  {
+    "Id": 1,
+    "emotionEs": "feliz",
+    "emotionEn": "happy",
+    "characterImage": "😊",
+    "audioUrl": "/audio/feliz.mp3",
+    "color": "#10B981",
+    "examplePhrases": [
+      {
+        "spanish": "Me siento feliz",
+        "english": "I feel happy"
+      },
+      {
+        "spanish": "Estoy muy feliz",
+        "english": "I am very happy"
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "emotionEs": "triste",
+    "emotionEn": "sad",
+    "characterImage": "😢",
+    "audioUrl": "/audio/triste.mp3",
+    "color": "#3B82F6",
+    "examplePhrases": [
+      {
+        "spanish": "Me siento triste",
+        "english": "I feel sad"
+      },
+      {
+        "spanish": "Estoy triste",
+        "english": "I am sad"
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "emotionEs": "enojado",
+    "emotionEn": "angry",
+    "characterImage": "😠",
+    "audioUrl": "/audio/enojado.mp3",
+    "color": "#DC2626",
+    "examplePhrases": [
+      {
+        "spanish": "Me siento enojado",
+        "english": "I feel angry"
+      },
+      {
+        "spanish": "Estoy enojado",
+        "english": "I am angry"
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "emotionEs": "asustado",
+    "emotionEn": "scared",
+    "characterImage": "😨",
+    "audioUrl": "/audio/asustado.mp3",
+    "color": "#8B5CF6",
+    "examplePhrases": [
+      {
+        "spanish": "Me siento asustado",
+        "english": "I feel scared"
+      },
+      {
+        "spanish": "Tengo miedo",
+        "english": "I am afraid"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "emotionEs": "sorprendido",
+    "emotionEn": "surprised",
+    "characterImage": "😲",
+    "audioUrl": "/audio/sorprendido.mp3",
+    "color": "#F59E0B",
+    "examplePhrases": [
+      {
+        "spanish": "Me siento sorprendido",
+        "english": "I feel surprised"
+      },
+      {
+        "spanish": "¡Qué sorpresa!",
+        "english": "What a surprise!"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "emotionEs": "emocionado",
+    "emotionEn": "excited",
+    "characterImage": "🤩",
+    "audioUrl": "/audio/emocionado.mp3",
+    "color": "#EC4899",
+    "examplePhrases": [
+      {
+        "spanish": "Me siento emocionado",
+        "english": "I feel excited"
+      },
+      {
+        "spanish": "¡Estoy muy emocionado!",
+        "english": "I am very excited!"
+      }
+    ]
+  },
+  {
+    "Id": 7,
+    "emotionEs": "valiente",
+    "emotionEn": "brave",
+    "characterImage": "💪",
+    "audioUrl": "/audio/valiente.mp3",
+    "color": "#059669",
+    "examplePhrases": [
+      {
+        "spanish": "Me siento valiente",
+        "english": "I feel brave"
+      },
+      {
+        "spanish": "Soy valiente",
+        "english": "I am brave"
+      }
+    ]
+  },
+  {
+    "Id": 8,
+    "emotionEs": "orgulloso",
+    "emotionEn": "proud",
+    "characterImage": "😌",
+    "audioUrl": "/audio/orgulloso.mp3",
+    "color": "#7C3AED",
+    "examplePhrases": [
+      {
+        "spanish": "Me siento orgulloso",
+        "english": "I feel proud"
+      },
+      {
+        "spanish": "Estoy orgulloso",
+        "english": "I am proud"
+      }
+    ]
+  }
+]

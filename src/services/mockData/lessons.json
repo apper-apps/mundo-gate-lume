@@ -1,0 +1,179 @@
+[
+  {
+    "Id": 1,
+    "title": "My First Emotions",
+    "titleEs": "Mis Primeras Emociones",
+    "type": "story",
+    "difficulty": 1,
+    "emotions": ["feliz", "triste", "enojado"],
+    "vocabulary": [
+      {
+        "spanish": "feliz",
+        "english": "happy",
+        "audioUrl": "/audio/feliz.mp3"
+      },
+      {
+        "spanish": "triste",
+        "english": "sad",
+        "audioUrl": "/audio/triste.mp3"
+      },
+      {
+        "spanish": "enojado",
+        "english": "angry",
+        "audioUrl": "/audio/enojado.mp3"
+      }
+    ],
+    "storyContent": {
+      "title": "El Día de Luna",
+      "titleEn": "Luna's Day",
+      "chapters": [
+        {
+          "spanish": "Luna se despierta muy feliz porque es su cumpleaños.",
+          "english": "Luna wakes up very happy because it's her birthday.",
+          "emotion": "feliz"
+        },
+        {
+          "spanish": "Pero cuando llueve, Luna se pone triste porque no puede jugar afuera.",
+          "english": "But when it rains, Luna becomes sad because she can't play outside.",
+          "emotion": "triste"
+        },
+        {
+          "spanish": "Su hermano toma su juguete favorito y Luna se siente enojada.",
+          "english": "Her brother takes her favorite toy and Luna feels angry.",
+          "emotion": "enojado"
+        }
+      ]
+    },
+    "activities": [
+      {
+        "type": "emotion-match",
+        "title": "Match the Emotion",
+        "questions": [
+          {
+            "scenario": "Es tu cumpleaños y tienes una fiesta",
+            "options": ["feliz", "triste", "enojado"],
+            "correct": "feliz"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "title": "Feeling Scared and Brave",
+    "titleEs": "Sentirse Asustado y Valiente",
+    "type": "story",
+    "difficulty": 2,
+    "emotions": ["asustado", "valiente", "orgulloso"],
+    "vocabulary": [
+      {
+        "spanish": "asustado",
+        "english": "scared",
+        "audioUrl": "/audio/asustado.mp3"
+      },
+      {
+        "spanish": "valiente",
+        "english": "brave",
+        "audioUrl": "/audio/valiente.mp3"
+      },
+      {
+        "spanish": "orgulloso",
+        "english": "proud",
+        "audioUrl": "/audio/orgulloso.mp3"
+      }
+    ],
+    "storyContent": {
+      "title": "El Primer Día de Escuela de Diego",
+      "titleEn": "Diego's First Day of School",
+      "chapters": [
+        {
+          "spanish": "Diego se siente asustado el primer día de escuela.",
+          "english": "Diego feels scared on the first day of school.",
+          "emotion": "asustado"
+        },
+        {
+          "spanish": "Pero cuando conoce a un nuevo amigo, se siente valiente.",
+          "english": "But when he meets a new friend, he feels brave.",
+          "emotion": "valiente"
+        },
+        {
+          "spanish": "Al final del día, Diego se siente orgulloso de sí mismo.",
+          "english": "At the end of the day, Diego feels proud of himself.",
+          "emotion": "orgulloso"
+        }
+      ]
+    },
+    "activities": [
+      {
+        "type": "emotion-match",
+        "title": "How Would You Feel?",
+        "questions": [
+          {
+            "scenario": "Vas a una nueva escuela por primera vez",
+            "options": ["asustado", "valiente", "orgulloso"],
+            "correct": "asustado"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "title": "Surprised and Excited",
+    "titleEs": "Sorprendido y Emocionado",
+    "type": "story",
+    "difficulty": 2,
+    "emotions": ["sorprendido", "emocionado", "curioso"],
+    "vocabulary": [
+      {
+        "spanish": "sorprendido",
+        "english": "surprised",
+        "audioUrl": "/audio/sorprendido.mp3"
+      },
+      {
+        "spanish": "emocionado",
+        "english": "excited",
+        "audioUrl": "/audio/emocionado.mp3"
+      },
+      {
+        "spanish": "curioso",
+        "english": "curious",
+        "audioUrl": "/audio/curioso.mp3"
+      }
+    ],
+    "storyContent": {
+      "title": "La Sorpresa de Mia",
+      "titleEn": "Mia's Surprise",
+      "chapters": [
+        {
+          "spanish": "Mia encuentra una caja misteriosa y se siente curiosa.",
+          "english": "Mia finds a mysterious box and feels curious.",
+          "emotion": "curioso"
+        },
+        {
+          "spanish": "Cuando abre la caja, se siente muy sorprendida.",
+          "english": "When she opens the box, she feels very surprised.",
+          "emotion": "sorprendido"
+        },
+        {
+          "spanish": "¡Hay un gatito adentro! Mia se siente emocionada.",
+          "english": "There's a kitten inside! Mia feels excited.",
+          "emotion": "emocionado"
+        }
+      ]
+    },
+    "activities": [
+      {
+        "type": "emotion-match",
+        "title": "What's the Emotion?",
+        "questions": [
+          {
+            "scenario": "Encuentras un regalo envuelto con tu nombre",
+            "options": ["sorprendido", "emocionado", "curioso"],
+            "correct": "curioso"
+          }
+        ]
+      }
+    ]
+  }
+]

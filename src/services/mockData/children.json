@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 1,
+    "name": "Sofia",
+    "age": 5,
+    "avatarId": "girl-1",
+    "currentLevel": 2,
+    "emotionVocabulary": ["feliz", "triste", "enojado", "sorprendido", "asustado"],
+    "completedLessons": ["lesson-1", "lesson-2", "lesson-3"],
+    "badges": ["first-day", "emotion-master", "story-reader"],
+    "weeklyCheckIns": [
+      {
+        "date": "2024-01-15",
+        "emotion": "feliz",
+        "reason": "Played with friends"
+      },
+      {
+        "date": "2024-01-14",
+        "emotion": "emocionado",
+        "reason": "New book arrived"
+      }
+    ]
+  }
+]
