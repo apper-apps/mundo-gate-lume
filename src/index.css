@@ -74,5 +74,69 @@ body {
   
   .text-gradient-warm {
     @apply bg-gradient-to-r from-secondary to-yellow-500 bg-clip-text text-transparent;
+}
+}
+
+@media print {
+  body {
+    font-size: 12px;
+    line-height: 1.4;
+    color: #000;
+    background: #fff;
+  }
+  
+  .print-activity {
+    page-break-inside: avoid;
+    margin-bottom: 20px;
+  }
+  
+  .print-activity h1,
+  .print-activity h2,
+  .print-activity h3 {
+    color: #000;
+    font-weight: bold;
+  }
+  
+  .print-activity .activity-header {
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .print-activity .activity-section {
+    margin-bottom: 15px;
+  }
+  
+  .print-activity .activity-section h3 {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+  
+  .print-activity .activity-list {
+    margin-left: 20px;
+  }
+  
+  .print-activity .activity-list li {
+    margin-bottom: 4px;
+  }
+  
+  .print-activity .bilingual-columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+  }
+  
+  .print-activity .language-flag {
+    font-weight: bold;
+    font-size: 12px;
+  }
+  
+  .print-activity .activity-footer {
+    margin-top: 20px;
+    padding-top: 10px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+    font-size: 10px;
+    color: #666;
   }
 }
