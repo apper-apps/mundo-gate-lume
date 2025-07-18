@@ -26,10 +26,10 @@ const ParentResources = () => {
       title: "Progress Tracking Tips",
       description: "How to monitor and celebrate your child's learning milestones",
       icon: "BarChart3",
-      color: "accent",
+color: "accent",
       type: "tracking"
     },
-{
+    {
       title: "Family Activities",
       description: "Bilingual printable cards with emotional intelligence exercises and activities for home",
       icon: "Heart",
@@ -523,27 +523,7 @@ const ParentResources = () => {
             </motion.div>
           ))}
         </div>
-      </Card>
-
-      {/* Contact Support */}
-      <Card className="p-8 text-center">
-        <div className="max-w-md mx-auto">
-          <div className="w-16 h-16 bg-gradient-to-br from-primary/20 to-secondary/20 rounded-full flex items-center justify-center mx-auto mb-4">
-            <ApperIcon name="MessageCircle" size={32} className="text-primary" />
-          </div>
-          <h3 className="font-display text-xl font-bold text-gray-800 mb-2">
-            Need More Help?
-          </h3>
-          <p className="text-gray-600 mb-6">
-            Our support team is here to help you and your child succeed on this learning journey.
-          </p>
-          <Button className="flex items-center space-x-2">
-            <ApperIcon name="Mail" size={16} />
-            <span>Contact Support</span>
-          </Button>
-        </div>
-</div>
-      </Card>
+</Card>
 
       {/* Family Activities Section */}
       <Card className="p-8">
@@ -706,9 +686,10 @@ const ParentResources = () => {
             <ApperIcon name="Mail" size={16} />
             <span>Contact Support</span>
           </Button>
-        </div>
+</div>
       </Card>
     </div>
+  );
 };
 
 export default ParentResources;
